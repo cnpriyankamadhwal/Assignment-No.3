@@ -1,0 +1,163 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Header */
+header {
+    background-color: rgb(33, 29, 29);
+    color: white;
+    padding: 30px;
+    text-align: center;
+}
+
+ul li {
+    display: inline-block;
+    list-style: none;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+/* Section-1 */
+.Section1 {
+    background-color: rgb(198, 136, 21);
+    height: 570px;
+}
+
+.intro {
+    padding: 20px 35px;
+}
+
+.intro h2 {
+    padding: 10px 0;
+}
+
+.image {
+    margin: 0 30px;
+}
+
+img {
+    height: 400px;
+    width: 450px;
+}
+
+/* Section-2 */
+.Section2 {
+    background-color: skyblue;
+    height: 400px;
+}
+
+h2 {
+    padding: 20px;
+}
+
+.Card1 {
+    border-radius: 10px;
+    padding: 0px 0px 9px 15px;
+    margin: 34px 892px 22px 228px;
+    background-color: orangered;
+}
+
+.Card2 {
+    border-radius: 10px;
+    margin: -136px 219px 0px 855px;
+    padding: 0px 0px 9px 15px;
+    background-color: green;
+}
+
+.Card3 {
+    border-radius: 10px;
+    margin: 29px 540px 0px 596px;
+    padding: 0px 0px 9px 15px;
+    background-color: palevioletred;
+}
+
+/* Section-3 */
+.Section3 {
+    background-color: rgb(67, 125, 67);
+    height: 1190px;
+}
+
+.Pic {
+    margin: 10px 30px;
+}
+
+img {
+    height: 350px;
+    width: 450px;
+}
+
+.Picture {
+    margin: 10px 30px;
+}
+
+.image {
+    margin: 10px 30px;
+}
+
+/* Section-4 */
+.Section4 {
+    background-color: orange;
+    height: 355px;
+}
+
+video {
+    height: 300px;
+    width: 400px;
+    margin-left: 20px;
+}
+/* Section-5 */
+.Section5{
+    background-color: royalblue;
+    height: 1000px;
+}
+
+.form {
+    padding: 15px 35px;
+    background-color: white;
+    margin: 0px 500px;
+    width: 550px;
+}
+
+label{
+    display: block;
+    padding: 10px 0;
+}
+input{
+    border-radius: 4px;
+    padding: 8px;
+    width: 100%;
+}
+
+input[type="radio"]{
+    margin-left: -230px;
+}
+
+select {
+    border-radius: 4px;
+    padding: 4px;
+    width: 100%;
+    background-color: rgb(237 237 237);
+}
+
+textarea{
+    width: 100%;
+    height: 100px;
+}
+
+button {
+    padding: 5px;
+    background-color: rgb(31, 20, 20);
+    color: white;
+    width: 15%;
+    margin: 15px 0;
+}
+
+/* Footer */
+footer {
+    background-color: rgb(30, 25, 25);
+    color: white;
+    padding: 20px;
+    text-align: center;
+}
